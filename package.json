@@ -1,6 +1,6 @@
 {
   "name": "@crude/i18n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple language hoc component.",
   "author": "luckcoding",
   "main": "lib/index.js",
